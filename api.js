@@ -6,7 +6,7 @@ app.get('/str', (req, res) => {
     res.send(processString(inputString));
 });
 app.get('/', (req, res) => {
-    const str = "Wrong! input";
+    const str = "Use 'https://groot-translate.onrender.com/str?inputString={str}' where str is your input without curly braces.";
     res.send(str);
 });
 
