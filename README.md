@@ -7,7 +7,7 @@ A simple API which translates every string you send to groot!
 ## API Reference
 
 #### Translate
-```http
+```
   GET /str
 ```
 
