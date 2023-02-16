@@ -16,7 +16,7 @@ A simple API which translates every string you send to groot!
 | `inputString` | `string` | **Required**. str to translate to groot. |
 
 ## 🔗 Links
-Deployed at: https://groot-translate.onrender.com
+Deployed at: https://groot-translate.onrender.com/
 
 
 
